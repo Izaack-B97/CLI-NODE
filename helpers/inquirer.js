@@ -35,6 +35,7 @@ const pausa = async () => {
         message: `PRESIONE ${ 'ENTER'.green } PARA CONTINUAR ...`
     }]);
 
+    console.log('\n');
     console.clear()
     // return opcion;
 }
